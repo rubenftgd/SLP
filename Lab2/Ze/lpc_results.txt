@@ -1,0 +1,47 @@
+A análise descrita foi realizada para o ficheiro birthdate_75255.wav
+
+Window Length - 20ms
+Window Interval - 10ms
+Prediction Order - 16
+Energy in the residual: 4.0107
+
+Window Length - 20ms
+Window Interval - 5ms
+Prediction Order - 16
+Energy in the residual: 5.2574
+
+Window Length - 10ms
+Window Interval - 10ms
+Prediction Order - 16
+Energy in the residual: 2.1265
+
+Window Length - 10ms
+Window Interval - 5ms
+Prediction Order - 16
+Energy in the residual: 6.1911
+
+Window Length - 20ms
+Window Interval - 10ms
+Prediction Order - 10
+Energy in the residual: 3.6785
+
+Window Length - 20ms
+Window Interval - 5ms
+Prediction Order - 10
+Energy in the residual: 5.1457
+
+Window Length - 10ms
+Window Interval - 10ms
+Prediction Order - 10
+Energy in the residual: 2.1089
+
+Window Length - 10ms
+Window Interval - 5ms
+Prediction Order - 10
+Energy in the residual: 5.6641
+
+Window Length - 20ms
+Window Interval - 20ms
+Prediction Order - 16
+Energy in the residual: 1.4305
+

@@ -1,0 +1,14 @@
+1 → Para conseguirmos testar se os nossos TESTSET 1 e 2
+    estão correctamente classificados, precisamos das labels.
+    O professor vai fornecer as labels para os testes ou vamo
+    ter que os identificar 1 a 1? (Impraticável)
+
+Resposta: Não vamos ter resposta... É assim que vamos ser
+		  avaliados. Vão testar o nosso classificador com os
+		  testes. É mesmo esse o objectivo de machine Learning.
+
+
+2 → Como implementar ? 
+    http://www.l2f.inesc-id.pt/~imt/priv/pf/en_pf/gemaps_usage.html
+
+Resposta:
