@@ -1,2 +1,2 @@
-# PF
+# SLP
 Project and Laboratories requested by the course of Spoken Language Processing
